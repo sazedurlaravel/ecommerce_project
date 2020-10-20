@@ -1,7 +1,6 @@
 # Advance E-commerce website in  Laravel 7
 
-## Demo video :
-https://youtu.be/c5a_wrvJSJo
+
 
 
 ## Features :
